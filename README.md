@@ -26,7 +26,7 @@ We could get bonus points if we would add the calculation and memory keys.
 | Creator  | Demo link  |
 |---|---|
 | [Sander Elias](https://twitter.com/esosanderelias) | [Link](https://stackblitz.com/edit/dag-numpad)  |
-| Dennis van den Berg (showed by [Michiel Kikkert](https://twitter.com/Dutch_Guy))   |  [Link](https://stackblitz.com/github/dlvandenberg/devdbe-numpad) |
+| [Dennis van den Berg](https://twitter.com/@devdbe) (showed by [Michiel Kikkert](https://twitter.com/Dutch_Guy))   |  [Link](https://stackblitz.com/github/dlvandenberg/devdbe-numpad) |
 | [Frank Anneveld](https://twitter.com/FrankAnneveld)  | [Link](https://stackblitz.com/github/frankanneveld/numpad)  |
 | [Jeffrey Bosch](https://twitter.com/jefiozie)  |  [Link](https://stackblitz.com/edit/dag-nummpadd) |
 
